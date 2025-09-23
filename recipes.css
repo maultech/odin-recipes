@@ -1,0 +1,28 @@
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#body-1{
+    background-color: beige;
+}
+
+#body-2{
+    background-color: lightblue;
+}
+
+#body-3{
+    background-color: lightgreen;
+}
+
+#recipe-img{
+    box-sizing: border-box;
+    border: 5px solid red;
+}
+
+#pizza-info{
+    margin-left: 100px;
+}
+
+#cookie-info{
+    margin: auto;
+}
